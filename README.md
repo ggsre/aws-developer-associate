@@ -16,3 +16,29 @@
       - Para Virtualization Mode (PVM)
       - Hardware Assisted Virtual Machines (HVM) 
     - Hardware emulation 
+- Elasticity versus scalability
+- Core AWS services
+  - AWS compute services
+    - EC2, ECS, LightSail, Elastic Beanstalk, Lambda, Batch 
+  -  AWS storage services
+    - S3, EFS, Glacier, Storage Gateway 
+  - AWS database services
+    - RDS, DynamoDB, ElastiCache, RedShift 
+  - AWS networking and content delivery services
+    - VPC, CloudFront, Direct Connect, Route 53, API Gateway 
+  - AWS migration services
+    - Database Migration Service (DMS), AWS Migration Hub, Application Discovery Service, Server Migration Service, Snowball, Snowmobile
+  - AWS developer tools
+    - CodeCommit, CodeBuild, CodeDeploy, CodePipeline, CodeStar, Cloud9, X-Ray
+  - AWS management tools
+    - CloudWatch, CloudFormation, CloudTrail, AWS Config, OpsWorks, Service Catalog, Trusted Advisor, Systems Manager, Managed Services
+  -
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
